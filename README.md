@@ -31,4 +31,4 @@ The 80/20 rule has proven true for many businesses–only a small percentage of 
 Online store analysis can educate the types of products customers like, customers distribution and many other useful factors. This can help make more educated decisions when it comes to product creation or curation for stores. I think this project may be more related to future work, and helpful accumulate realted experience.
 
 # Challenges
-The data set are really huge. The size of train data is 25.41GB with 12 colunms (if flatten all json columns, there will be more than 100 columns) and 1,708,337 rows. It will take a lot of time and memory to load and handle the data. The target value is unbalanced distribution, $98.9\%$ of them are NaN, and some of the rest are very larger.
+The data set are really huge. The size of train data is 25.41GB with 12 colunms (if flatten all json columns, there will be more than 100 columns) and 1,708,337 rows. It will take a lot of time and memory to load and handle the data. The target value is unbalanced distribution, 98.9\% of them are NaN, and some of the rest are very larger.
